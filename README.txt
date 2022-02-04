@@ -15,7 +15,7 @@ To see if it is encrypted download your file or just open it up on the 	amazon w
 
 
 **note if you get a bad end point connection try the following
-unmount bucket uding following command sudo fusermount -u /mnt/osfinal
+unmount bucket using following command sudo fusermount -u /mnt/osfinal
 Then remount the bucket again
 
 
